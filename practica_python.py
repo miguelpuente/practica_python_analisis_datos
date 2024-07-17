@@ -68,20 +68,20 @@ Imprime una clasificación basada en la edad:
 
 '''
 
-# Solicitar la edad al usuario
-edad = int(input("Ingrese su edad: "))
+# # # Solicitar la edad al usuario
+# # edad = int(input("Ingrese su edad: "))
 
-# Clasificación basada en la edad
-if 0 < edad <= 12:
-    print('Clasificación: Niño')
-elif edad >=13 and edad <= 17:
-    print('Clasificación: Adolescente')
-elif edad >=18 and edad <= 64:
-    print('Clasificación: Adulto')
-elif edad >= 65:
-    print('Clasificación: Adulto Muyar')
-else:
-    print('Edad no válida')
+# # # Clasificación basada en la edad
+# # if 0 < edad <= 12:
+# #     print('Clasificación: Niño')
+# # elif edad >=13 and edad <= 17:
+# #     print('Clasificación: Adolescente')
+# # elif edad >=18 and edad <= 64:
+# #     print('Clasificación: Adulto')
+# # elif edad >= 65:
+# #     print('Clasificación: Adulto Muyar')
+# # else:
+# #     print('Edad no válida')
 
 
 
@@ -97,13 +97,35 @@ Anidamiento de Condicionales
     Ejercicio: Cálculo de Impuestos
 
     Solicita al usuario que ingrese sus ingresos anuales.
-Calcula el impuesto a pagar según los siguientes tramos: 10% para ingresos hasta 10,000, 20% para ingresos entre 10,001 y 20,000, 30% para ingresos entre 20,001 y 30,000, y 40% para ingresos superiores a 30,000.
+Calcula el impuesto a pagar según los siguientes tramos: 
+
+    10% para ingresos hasta 10,000, 
+    20% para ingresos entre 10,001 y 20,000, 
+    30% para ingresos entre 20,001 y 30,000, 
+    y 40% para ingresos superiores a 30,000.
 '''
 
-# Solicitar los ingresos anuales al usuario
-ingresos = float(input("Ingrese sus ingresos anuales: "))
+# # # Solicitar los ingresos anuales al usuario
+# # ingresos = float(input("Ingresos anuales: "))
 
-# Cálculo del impuesto
+
+# # # Cálculo del impuesto
+# # if ingresos <=10000:
+# #     impuesto = ingresos * 0.10
+# # elif ingresos <= 20000:
+# #     impuesto = 10000 * 0.10 + (ingresos - 10000) * 0.20
+# # elif ingresos <= 30000:
+# #     impuesto = 10000 * 0.10 + 10000 * 0.20 + (ingresos - 20000) * 0.30
+# # else:
+# #     impuesto = 10000 * 0.10 + 10000 * 0.20 + 10000 * 0.30 + (ingresos - 30000) * 0.40
+
+# # print(f'Impuesto a pagar: ${impuesto:.2f}')
+
+
+
+
+
+
 
 
 
@@ -125,8 +147,12 @@ Bucles For
 fibonacci = [0, 1]
 
 # Calcular los primeros 20 números de la serie Fibonacci
+for i in range(2,20):
+    seguiente = fibonacci[i-1] + fibonacci[i-2]
+    #seguiente = fibonacci[i] + fibonacci[i-1]
+    fibonacci.append(seguiente)
 
-
+print(f'Serie Fibonacci: {fibonacci}')
 
 
 
