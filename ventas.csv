@@ -1,0 +1,801 @@
+Tienda;Marca;Tipo;G�nero;Talla;Color;Categoria;precio de venta;Fecha;Hora
+Lima;Asics;WB1820;Femenino;42;Azul;Pantalon;89.00;15/07/2015;07:32:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Ropa interior;24.99;15/07/2015;07:33:00
+Lima;Asics;WB1820;Femenino;37;Rosado;Pantalon;89;15/07/2015;07:52:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;15/07/2015;07:58:00
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pantalon;89;15/07/2015;08:19:00
+Lima;Asics;WB1820;Femenino;39;Azul;Pantalon;89;15/07/2015;08:48:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;15/07/2015;09:07:00
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;12.99;15/07/2015;09:11:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;15/07/2015;10:04:00
+Lima;Asics;MB1878;Masculino;46;Negro;Pantalon;99;15/07/2015;10:06:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;15/07/2015;10:45:00
+Lima;Asics;Cummulus 17;Masculino;44;Gris;Zapatillas;159;15/07/2015;10:56:00
+Lima;Asics;WB1820;Femenino;46;Verde;Pantalon;89;15/07/2015;11:05:00
+Lima;Asics;Nimbus 17;Masculino;39;Azul;Zapatillas;128;15/07/2015;11:34:00
+Lima;Asics;WB1820;Femenino;40;Azul;Pantalon;89;15/07/2015;11:41:00
+Lima;Nike;Pro Fierce;Femenino;70F;Rosado;Sujetadores;149;15/07/2015;11:51:00
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pantalon;89;15/07/2015;11:55:00
+Lima;Asics;WB1820;Femenino;41;Azul;Pantalon;89;15/07/2015;12:41:00
+Lima;Asics;WB1820;Femenino;45;Amarillo;Pantalon;89;15/07/2015;13:01:00
+Lima;Nike;Air Zoom;Masculino;42;Azul;Zapatillas;230;15/07/2015;13:30:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Azul;Ropa interior;19;15/07/2015;14:52:00
+Lima;Asics;WB2585;Femenino;46;Negro;Pantalon;99;15/07/2015;14:52:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Ropa interior;20;15/07/2015;14:54:00
+Lima;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Ropa interior;12.99;15/07/2015;14:55:00
+Lima;Asics;WB1820;Femenino;46;Gris;Pantalon;89;15/07/2015;15:10:00
+Lima;Asics;MB1878;Masculino;37;Negro;Pantalon;99;15/07/2015;15:31:00
+Lima;Asics;Gel Quantics ;Masculino;37;Verde;Zapatillas;120;15/07/2015;15:59:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Azul;Ropa interior;12.99;15/07/2015;16:03:00
+Lima;Nike;Pro Hero;Femenino;80A;Rosado;Sujetadores;99;15/07/2015;17:24:00
+Lima;Asics;WB2585;Femenino;40;Negro;Pantalon;99;15/07/2015;17:44:00
+Lima;Nike;Pro Fierce;Femenino;80B;Multicolor;Sujetadores;149;15/07/2015;18:43:00
+Lima;Asics;MB1878;Masculino;40;Negro;Pantalon;99;15/07/2015;18:59:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Negro;Ropa interior;21;15/07/2015;19:03:00
+Lima;Asics;WB1820;Femenino;45;Amarillo;Pantalon;89;15/07/2015;19:30:00
+Lima;Asics;WB2585;Femenino;40;Negro;Pantalon;99;15/07/2015;19:36:00
+Lima;Asics;WB1820;Femenino;38;Rosado;Pantalon;89;15/07/2015;19:36:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;15/07/2015;19:43:00
+Lima;Nike;Pro Fierce;Femenino;80C;Amarillo;Sujetadores;149;15/07/2015;19:56:00
+Lima;Asics;WB1820;Femenino;43;Negro;Pantalon;89;15/07/2015;20:00:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;15/07/2015;20:13:00
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;15/07/2015;20:52:00
+Lima;Asics;Cummulus 17;Masculino;38;Rosado;Zapatillas;159;15/07/2015;20:55:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;15/07/2015;21:05:00
+Lima;Asics;WB1820;Femenino;36;Gris;Pantalon;89;15/07/2015;21:08:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;15/07/2015;22:01:00
+Lima;Asics;WB1820;Femenino;41;Negro;Pantalon;89;15/07/2015;22:45:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;15/07/2015;23:13:00
+Lima;Nike;Pro Indy;Femenino;80F;Azul;Sujetadores;123;15/07/2015;09:52:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;15/07/2015;10:00:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;24.99;15/07/2015;10:02:00
+Lima;Nike;Pro Fierce;Femenino;80C;Verde;Sujetadores;149;15/07/2015;10:10:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;15/07/2015;10:20:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;15/07/2015;10:52:00
+Lima;Asics;WB1820;Femenino;38;Amarillo;Pantalon;89;15/07/2015;10:52:00
+Lima;Asics;MB1878;Masculino;44;Negro;Pantalon;99;15/07/2015;11:01:00
+Lima;Nike;Pro Fierce;Femenino;85F;Verde;Sujetadores;149;15/07/2015;11:20:00
+Lima;Asics;MB1878;Masculino;46;Negro;Pantalon;99;15/07/2015;11:25:00
+Lima;Nike;Free 5.0;Femenino;38;Verde;Zapatillas;239;15/07/2015;11:28:00
+Lima;Nike;Pro Fierce;Femenino;70B;Negro;Sujetadores;149;15/07/2015;11:32:00
+Lima;Nike;Pro Indy;Femenino;80E;Rosado;Sujetadores;123;15/07/2015;11:38:00
+Lima;Asics;WB1820;Femenino;43;Negro;Pantalon;89;15/07/2015;11:38:00
+Lima;Asics;WB1820;Femenino;36;Gris;Pantalon;89;15/07/2015;11:58:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Rosado;Ropa interior;20;15/07/2015;12:01:00
+Lima;Asics;WB2585;Femenino;44;Negro;Pantalon;99;15/07/2015;12:09:00
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Azul;Ropa interior;19;15/07/2015;12:11:00
+Lima;Adidas;Ultra Boost;Masculino;41;Amarillo;Zapatillas;139;15/07/2015;12:19:00
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pantalon;89;15/07/2015;12:21:00
+Lima;Asics;WB1820;Femenino;38;Rosado;Pantalon;89;15/07/2015;12:40:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Verde;Ropa interior;19;15/07/2015;12:42:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;15/07/2015;12:42:00
+Lima;Asics;WB1820;Femenino;39;Rosado;Pantalon;89;15/07/2015;13:05:00
+Lima;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;15/07/2015;13:16:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;12.99;15/07/2015;13:18:00
+Lima;Nike;Pro Fierce;Femenino;90B;Azul;Sujetadores;149;15/07/2015;13:25:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;15/07/2015;13:25:00
+Lima;Nike;Free 5.0;Masculino;40;Multicolor;Zapatillas;239;15/07/2015;13:28:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;24.99;15/07/2015;13:28:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;15/07/2015;13:31:00
+Lima;Nike;Pro Fierce;Femenino;90F;Azul;Sujetadores;149;15/07/2015;13:38:00
+Lima;Asics;MB1878;Masculino;37;Negro;Pantalon;99;15/07/2015;13:48:00
+Lima;Asics;Nimbus 17;Masculino;39;Amarillo;Zapatillas;128;15/07/2015;14:02:00
+Lima;Nike;Free 5.0;Femenino;43;Gris;Zapatillas;239;15/07/2015;14:20:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;15/07/2015;14:24:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;24.99;15/07/2015;14:32:00
+Lima;Asics;WB1820;Femenino;46;Negro;Pantalon;89;15/07/2015;14:45:00
+Lima;Asics;Nimbus 17;Masculino;39;Negro;Zapatillas;128;15/07/2015;14:48:00
+Lima;Asics;WB1820;Femenino;45;Verde;Pantalon;89;15/07/2015;14:55:00
+Lima;Nike;Pro Hero;Femenino;65D;Azul;Sujetadores;99;15/07/2015;14:58:00
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Ropa interior;20;15/07/2015;15:11:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Ropa interior;12.99;15/07/2015;15:21:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;15/07/2015;15:47:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Ropa interior;20;15/07/2015;15:47:00
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Rosado;Ropa interior;19;15/07/2015;16:38:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;12.99;15/07/2015;16:39:00
+Lima;Nike;Pro Hero;Femenino;70D;Amarillo;Sujetadores;99;15/07/2015;16:41:00
+Lima;Adidas;Rocket Boost;Masculino;43;Multicolor;Zapatillas;110;15/07/2015;17:27:00
+Lima;Asics;WB1820;Femenino;45;Verde;Pantalon;89;15/07/2015;08:25:00
+Lima;Asics;WB1820;Femenino;37;Negro;Pantalon;89;15/07/2015;08:26:00
+Lima;Asics;WB1820;Femenino;37;Rosado;Pantalon;89;15/07/2015;08:38:00
+Lima;Nike;Pro Classic;Femenino;70F;Verde;Sujetadores;100;15/07/2015;08:41:00
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;15/07/2015;08:48:00
+Lima;Nike;Free 5.0;Femenino;45;Gris;Zapatillas;239;15/07/2015;10:32:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;15/07/2015;10:33:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;15/07/2015;11:09:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Ropa interior;20;15/07/2015;12:31:00
+Lima;Nike;Pro Hero;Femenino;75D;Rosado;Sujetadores;99;15/07/2015;12:43:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;15/07/2015;13:03:00
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Verde;Ropa interior;19;15/07/2015;13:04:00
+Lima;Nike;Free 5.0;Femenino;37;Negro;Zapatillas;239;15/07/2015;13:19:00
+Lima;Nike;Free 5.0;Femenino;42;Azul;Zapatillas;239;15/07/2015;14:13:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;15/07/2015;14:18:00
+Lima;Nike;Pro Classic;Femenino;70E;Amarillo;Sujetadores;100;15/07/2015;14:28:00
+Lima;Asics;WB1820;Femenino;44;Amarillo;Pantalon;89;15/07/2015;14:31:00
+Lima;Nike;Free 5.0;Femenino;42;Multicolor;Zapatillas;239;15/07/2015;14:34:00
+Lima;Nike;Free 5.0;Femenino;46;Rosado;Zapatillas;239;15/07/2015;14:41:00
+Lima;Asics;WB1820;Femenino;44;Negro;Pantalon;89;15/07/2015;14:44:00
+Lima;Asics;WB1820;Femenino;36;Rosado;Pantalon;89;15/07/2015;14:48:00
+Lima;Asics;MB1878;Masculino;37;Negro;Pantalon;99;15/07/2015;15:02:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;15/07/2015;15:14:00
+Lima;Nike;Pro Hero;Femenino;70D;Amarillo;Sujetadores;99;15/07/2015;15:34:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;15/07/2015;16:37:00
+Lima;Asics;MB1878;Masculino;39;Negro;Pantalon;99;15/07/2015;16:39:00
+Lima;Nike;Free 5.0;Femenino;43;Verde;Zapatillas;239;15/07/2015;16:45:00
+Lima;Nike;Free 5.0;Femenino;43;Multicolor;Zapatillas;239;15/07/2015;16:46:00
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Ropa interior;19;15/07/2015;17:34:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;15/07/2015;17:55:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;24.99;15/07/2015;18:12:00
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Ropa interior;19;15/07/2015;18:33:00
+Lima;Nike;Pro Fierce;Femenino;90E;Rosado;Sujetadores;149;15/07/2015;18:41:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;15/07/2015;19:00:00
+Lima;Asics;WB1820;Femenino;46;Verde;Pantalon;89;15/07/2015;20:21:00
+Lima;Nike;Pro Indy;Femenino;85D;Rosado;Sujetadores;123;15/07/2015;20:26:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;15/07/2015;20:39:00
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pantalon;89;15/07/2015;22:04:00
+Lima;Asics;Nimbus 17;Masculino;41;Gris;Zapatillas;128;15/07/2015;22:42:00
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;15/07/2015;23:28:00
+Lima;Adidas;Rocket Boost;Femenino;46;Rosado;Zapatillas;100;15/07/2015;11:38:00
+Lima;Adidas;Ultra Boost;Femenino;46;Azul;Zapatillas;139;15/07/2015;14:27:00
+Lima;Adidas;Rocket Boost;Femenino;39;Multicolor;Zapatillas;100;15/07/2015;12:26:00
+Lima;Adidas;Ultra Boost;Masculino;36;Gris;Zapatillas;139;15/07/2015;09:37:00
+Lima;Adidas;Rocket Boost;Masculino;46;Negro;Zapatillas;110;15/07/2015;12:45:00
+Lima;Adidas;Boston 5;Masculino;36;Multicolor;Zapatillas;125;15/07/2015;13:08:00
+Lima;Adidas;Boston 5;Femenino;36;Negro;Zapatillas;120;15/07/2015;13:59:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Ropa interior;21;16/07/2015;07:46:00
+Lima;Asics;Nimbus 17;Masculino;41;Negro;Zapatillas;128;16/07/2015;08:29:00
+Lima;Nike;Pro Classic;Femenino;65E;Multicolor;Sujetadores;100;16/07/2015;08:45:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;16/07/2015;09:01:00
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Ropa interior;20;16/07/2015;09:36:00
+Lima;Asics;WB1820;Femenino;46;Gris;Pantalon;89;16/07/2015;10:19:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Ropa interior;20;16/07/2015;10:46:00
+Lima;Asics;MB1878;Masculino;40;Negro;Pantalon;99;16/07/2015;11:06:00
+Lima;Nike;Air Zoom;Masculino;44;Amarillo;Zapatillas;220;16/07/2015;12:41:00
+Lima;Asics;WB2585;Femenino;41;Negro;Pantalon;99;16/07/2015;13:12:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;16/07/2015;13:46:00
+Lima;Asics;WB1820;Femenino;44;Multicolor;Pantalon;89;16/07/2015;14:09:00
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Rosado;Ropa interior;20;16/07/2015;14:19:00
+Lima;Asics;WB1820;Femenino;41;Azul;Pantalon;89;16/07/2015;14:26:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Negro;Ropa interior;21;16/07/2015;14:34:00
+Lima;Asics;Cummulus 17;Masculino;38;Multicolor;Zapatillas;159;16/07/2015;14:55:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;16/07/2015;15:37:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;24.99;16/07/2015;16:07:00
+Lima;Nike;Air Zoom;Masculino;38;Azul;Zapatillas;230;16/07/2015;16:12:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Rosado;Ropa interior;21;16/07/2015;16:35:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;16/07/2015;16:58:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Ropa interior;21;16/07/2015;17:29:00
+Lima;Adidas;Boston 5;Masculino;42;Multicolor;Zapatillas;125;16/07/2015;18:01:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;16/07/2015;18:10:00
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Ropa interior;20;16/07/2015;18:10:00
+Lima;Asics;WB1820;Femenino;38;Azul;Pantalon;89;16/07/2015;18:18:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;24.99;16/07/2015;18:38:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;16/07/2015;18:51:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Ropa interior;21;16/07/2015;18:56:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;16/07/2015;19:40:00
+Lima;Asics;WB1820;Femenino;40;Rosado;Pantalon;89;16/07/2015;19:52:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;16/07/2015;20:32:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;16/07/2015;20:35:00
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Ropa interior;19;16/07/2015;20:57:00
+Lima;Asics;MB1878;Masculino;37;Negro;Pantalon;99;16/07/2015;21:36:00
+Lima;Asics;WB1820;Femenino;39;Amarillo;Pantalon;89;16/07/2015;21:48:00
+Lima;Asics;Nimbus 17;Masculino;39;Negro;Zapatillas;128;16/07/2015;22:24:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;16/07/2015;23:39:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Ropa interior;21;16/07/2015;23:49:00
+Lima;Nike;Free 5.0;Femenino;38;Rosado;Zapatillas;239;16/07/2015;09:49:00
+Lima;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;16/07/2015;09:50:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;16/07/2015;09:52:00
+Lima;Asics;WB1820;Femenino;40;Rosado;Pantalon;89;16/07/2015;10:07:00
+Lima;Asics;WB2585;Femenino;46;Negro;Pantalon;99;16/07/2015;10:10:00
+Lima;Nike;Pro Hero;Femenino;65D;Verde;Sujetadores;99;16/07/2015;10:10:00
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pantalon;89;16/07/2015;10:15:00
+Lima;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;16/07/2015;10:23:00
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Azul;Ropa interior;12.99;16/07/2015;10:26:00
+Lima;Nike;Free 5.0;Masculino;45;Multicolor;Zapatillas;239;16/07/2015;11:10:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;16/07/2015;11:15:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Azul;Ropa interior;21;16/07/2015;11:17:00
+Lima;Nike;Air Zoom;Femenino;45;Gris;Zapatillas;230;16/07/2015;11:30:00
+Lima;Asics;Cummulus 17;Masculino;39;Amarillo;Zapatillas;159;16/07/2015;11:32:00
+Lima;Asics;MB1878;Masculino;36;Negro;Pantalon;99;16/07/2015;11:38:00
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Ropa interior;12.99;16/07/2015;11:45:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Ropa interior;20;16/07/2015;11:58:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;16/07/2015;12:04:00
+Lima;Asics;WB1820;Femenino;39;Verde;Pantalon;89;16/07/2015;12:42:00
+Lima;Nike;Pro Fierce;Femenino;70D;Azul;Sujetadores;149;16/07/2015;12:42:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;16/07/2015;12:45:00
+Lima;Nike;Free 5.0;Masculino;36;Multicolor;Zapatillas;239;16/07/2015;13:02:00
+Lima;Asics;MB1878;Masculino;45;Negro;Pantalon;99;16/07/2015;13:03:00
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;16/07/2015;13:05:00
+Lima;Nike;Pro Fierce;Femenino;75A;Rosado;Sujetadores;149;16/07/2015;13:15:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;16/07/2015;13:16:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;16/07/2015;13:46:00
+Lima;Asics;WB1820;Femenino;37;Rosado;Pantalon;89;16/07/2015;14:02:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;16/07/2015;14:07:00
+Lima;Nike;Pro Classic;Femenino;75B;Negro;Sujetadores;100;16/07/2015;14:09:00
+Lima;Nike;Air Zoom;Masculino;44;Gris;Zapatillas;220;16/07/2015;14:17:00
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Negro;Ropa interior;20;16/07/2015;14:30:00
+Lima;Asics;WB1820;Femenino;44;Rosado;Pantalon;89;16/07/2015;14:56:00
+Lima;Asics;WB2585;Femenino;38;Negro;Pantalon;99;16/07/2015;14:58:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Ropa interior;20;16/07/2015;15:00:00
+Lima;Asics;WB1820;Femenino;42;Rosado;Pantalon;89;16/07/2015;15:03:00
+Lima;Nike;Pro Hero;Femenino;80D;Multicolor;Sujetadores;99;16/07/2015;15:08:00
+Lima;Asics;WB1820;Femenino;46;Negro;Pantalon;89;16/07/2015;15:09:00
+Lima;Asics;WB1820;Femenino;38;Multicolor;Pantalon;89;16/07/2015;15:14:00
+Lima;Nike;Pro Fierce;Femenino;65E;Verde;Sujetadores;149;16/07/2015;15:16:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;16/07/2015;15:29:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;16/07/2015;15:32:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Ropa interior;20;16/07/2015;15:42:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Ropa interior;12.99;16/07/2015;15:44:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;16/07/2015;15:45:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;16/07/2015;15:45:00
+Lima;Nike;Free 5.0;Femenino;45;Rosado;Zapatillas;239;16/07/2015;15:52:00
+Lima;Nike;Pro Fierce;Femenino;85A;Negro;Sujetadores;149;16/07/2015;15:58:00
+Lima;Nike;Pro Indy;Femenino;70F;Verde;Sujetadores;123;16/07/2015;16:03:00
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pantalon;89;16/07/2015;16:08:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;16/07/2015;16:26:00
+Lima;Nike;Pro Hero;Femenino;85F;Verde;Sujetadores;99;16/07/2015;16:26:00
+Lima;Asics;WB1820;Femenino;44;Rosado;Pantalon;89;16/07/2015;16:31:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Ropa interior;20;16/07/2015;16:34:00
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Ropa interior;20;16/07/2015;16:49:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Ropa interior;21;16/07/2015;16:52:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Negro;Ropa interior;19;16/07/2015;16:54:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;16/07/2015;16:56:00
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Ropa interior;19;16/07/2015;16:56:00
+Lima;Asics;WB1820;Femenino;46;Amarillo;Pantalon;89;16/07/2015;17:30:00
+Lima;Nike;Pro Fierce;Femenino;75D;Amarillo;Sujetadores;149;16/07/2015;17:35:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Ropa interior;20;16/07/2015;17:42:00
+Lima;Nike;Free 5.0;Masculino;44;Azul;Zapatillas;239;16/07/2015;08:28:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;16/07/2015;08:57:00
+Lima;Asics;Nimbus 17;Masculino;44;Gris;Zapatillas;128;16/07/2015;09:30:00
+Lima;Nike;Pro Indy;Femenino;65E;Azul;Sujetadores;123;16/07/2015;10:29:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Rosado;Ropa interior;20;16/07/2015;10:45:00
+Lima;Asics;WB1820;Femenino;42;Rosado;Pantalon;89;16/07/2015;10:46:00
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pantalon;89;16/07/2015;10:50:00
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Ropa interior;19;16/07/2015;10:53:00
+Lima;Asics;Gel Quantics ;Femenino;46;Azul;Zapatillas;120;16/07/2015;10:59:00
+Lima;Nike;Pro Indy;Femenino;70D;Verde;Sujetadores;123;16/07/2015;11:00:00
+Lima;Asics;WB1820;Femenino;43;Verde;Pantalon;89;16/07/2015;11:11:00
+Lima;Asics;Kayano Single Tab;Usinex;46-48;Negro;Ropa interior;24.99;16/07/2015;11:24:00
+Lima;Nike;Pro Fierce;Femenino;75E;Rosado;Sujetadores;149;16/07/2015;11:26:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;16/07/2015;11:42:00
+Lima;Nike;Pro Fierce;Femenino;65B;Verde;Sujetadores;149;16/07/2015;12:15:00
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pantalon;89;16/07/2015;12:21:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;16/07/2015;12:31:00
+Lima;Nike;Pro Hero;Femenino;80B;Azul;Sujetadores;99;16/07/2015;12:57:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;16/07/2015;13:55:00
+Lima;Asics;WB1820;Femenino;40;Amarillo;Pantalon;89;16/07/2015;15:12:00
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pantalon;89;16/07/2015;15:12:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Ropa interior;24.99;16/07/2015;15:12:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Ropa interior;12.99;16/07/2015;15:20:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;16/07/2015;16:29:00
+Lima;Asics;WB1820;Femenino;42;Azul;Pantalon;89;16/07/2015;16:45:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;24.99;16/07/2015;16:55:00
+Lima;Asics;WB1820;Femenino;43;Gris;Pantalon;89;16/07/2015;17:06:00
+Lima;Asics;WB1820;Femenino;44;Rosado;Pantalon;89;16/07/2015;17:08:00
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;16/07/2015;18:10:00
+Lima;Nike;Free 5.0;Masculino;39;Azul;Zapatillas;239;16/07/2015;18:21:00
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;24.99;16/07/2015;18:34:00
+Lima;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;16/07/2015;19:35:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Ropa interior;20;16/07/2015;19:49:00
+Lima;Asics;Cummulus 17;Masculino;40;Negro;Zapatillas;159;16/07/2015;20:11:00
+Lima;Nike;Pro Fierce;Femenino;90F;Gris;Sujetadores;149;16/07/2015;20:28:00
+Lima;Nike;Pro Indy;Femenino;65E;Negro;Sujetadores;123;16/07/2015;20:38:00
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;16/07/2015;21:01:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Ropa interior;20;16/07/2015;22:50:00
+Lima;Nike;Free 5.0;Femenino;44;Azul;Zapatillas;239;16/07/2015;23:11:00
+Lima;Adidas;Boston 5;Masculino;37;Negro;Zapatillas;125;16/07/2015;14:04:00
+Lima;Adidas;Rocket Boost;Masculino;39;Amarillo;Zapatillas;110;16/07/2015;11:30:00
+Lima;Adidas;Boston 5;Masculino;40;Amarillo;Zapatillas;125;16/07/2015;15:04:00
+Lima;Adidas;Rocket Boost;Masculino;43;Negro;Zapatillas;110;16/07/2015;11:58:00
+Lima;Adidas;Rocket Boost;Masculino;45;Rosado;Zapatillas;110;16/07/2015;11:10:00
+Lima;Adidas;Ultra Boost;Masculino;44;Verde;Zapatillas;139;16/07/2015;11:50:00
+Lima;Adidas;Boston 5;Masculino;46;Negro;Zapatillas;125;16/07/2015;15:27:00
+Lima;Adidas;Rocket Boost;Masculino;46;Negro;Zapatillas;110;16/07/2015;09:37:00
+Lima;Adidas;Rocket Boost;Masculino;39;Amarillo;Zapatillas;110;16/07/2015;11:07:00
+Lima;Adidas;Rocket Boost;Femenino;41;Negro;Zapatillas;100;16/07/2015;11:07:00
+Lima;Asics;WB1820;Femenino;36;Multicolor;Pantalon;89;17/07/2015;07:32:00
+Lima;Asics;MB1878;Masculino;39;Negro;Pantalon;99;17/07/2015;09:10:00
+Lima;Asics;Nimbus 17;Masculino;46;Amarillo;Zapatillas;128;17/07/2015;09:48:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;17/07/2015;10:32:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;17/07/2015;10:58:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;11:26:00
+Lima;Asics;WB1820;Femenino;46;Rosado;Pantalon;89;17/07/2015;12:07:00
+Lima;Asics;WB1820;Femenino;36;Verde;Pantalon;89;17/07/2015;12:21:00
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;12.99;17/07/2015;12:38:00
+Lima;Asics;WB1820;Femenino;37;Azul;Pantalon;89;17/07/2015;12:43:00
+Lima;Asics;WB1820;Femenino;46;Gris;Pantalon;89;17/07/2015;13:55:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;17/07/2015;13:59:00
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Rosado;Ropa interior;20;17/07/2015;14:11:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;17/07/2015;14:28:00
+Lima;Asics;WB2585;Femenino;37;Negro;Pantalon;99;17/07/2015;14:36:00
+Lima;Adidas;Boston 5;Masculino;46;Gris;Zapatillas;120;17/07/2015;15:34:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;17/07/2015;15:37:00
+Lima;Nike;Air Zoom;Masculino;44;Gris;Zapatillas;220;17/07/2015;16:40:00
+Lima;Asics;MB1878;Masculino;36;Negro;Pantalon;99;17/07/2015;17:54:00
+Lima;Asics;WB1820;Femenino;40;Negro;Pantalon;89;17/07/2015;18:00:00
+Lima;Asics;WB2585;Femenino;44;Negro;Pantalon;99;17/07/2015;18:12:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;17/07/2015;18:31:00
+Lima;Asics;WB1820;Femenino;39;Verde;Pantalon;89;17/07/2015;18:33:00
+Lima;Asics;WB1820;Femenino;41;Negro;Pantalon;89;17/07/2015;18:36:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;18:54:00
+Lima;Asics;Cummulus 17;Masculino;41;Azul;Zapatillas;159;17/07/2015;19:04:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;17/07/2015;19:45:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Ropa interior;21;17/07/2015;19:53:00
+Lima;Asics;WB1820;Femenino;44;Negro;Pantalon;89;17/07/2015;19:58:00
+Lima;Nike;Pro Fierce;Femenino;90F;Rosado;Sujetadores;149;17/07/2015;21:15:00
+Lima;Nike;Pro Hero;Femenino;65B;Verde;Sujetadores;99;17/07/2015;21:20:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;12.99;17/07/2015;21:21:00
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Rosado;Ropa interior;19;17/07/2015;21:43:00
+Lima;Asics;WB1820;Femenino;37;Gris;Pantalon;89;17/07/2015;22:37:00
+Lima;Asics;WB1820;Femenino;39;Azul;Pantalon;89;17/07/2015;22:50:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Ropa interior;21;17/07/2015;23:15:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;17/07/2015;23:24:00
+Lima;Nike;Air Zoom;Masculino;42;Rosado;Zapatillas;230;17/07/2015;23:31:00
+Lima;Asics;WB1820;Femenino;40;Verde;Pantalon;89;17/07/2015;23:32:00
+Lima;Nike;Free 5.0;Femenino;39;Amarillo;Zapatillas;239;17/07/2015;09:44:00
+Lima;Asics;WB1820;Femenino;36;Azul;Pantalon;89;17/07/2015;09:47:00
+Lima;Nike;Pro Fierce;Femenino;80F;Verde;Sujetadores;149;17/07/2015;09:47:00
+Lima;Asics;WB1820;Femenino;42;Rosado;Pantalon;89;17/07/2015;09:54:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;17/07/2015;10:02:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;17/07/2015;10:13:00
+Lima;Nike;Pro Indy;Femenino;70E;Gris;Sujetadores;123;17/07/2015;10:25:00
+Lima;Nike;Air Zoom;Masculino;36;Gris;Zapatillas;220;17/07/2015;10:30:00
+Lima;Nike;Pro Fierce;Femenino;75A;Negro;Sujetadores;149;17/07/2015;10:31:00
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Ropa interior;19;17/07/2015;10:31:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;17/07/2015;10:31:00
+Lima;Nike;Free 5.0;Masculino;45;Gris;Zapatillas;239;17/07/2015;10:31:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Ropa interior;24.99;17/07/2015;10:33:00
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;17/07/2015;10:41:00
+Lima;Asics;WB1820;Femenino;42;Multicolor;Pantalon;89;17/07/2015;10:41:00
+Lima;Asics;WB1820;Femenino;41;Negro;Pantalon;89;17/07/2015;10:49:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Ropa interior;21;17/07/2015;10:52:00
+Lima;Asics;WB2585;Femenino;36;Negro;Pantalon;99;17/07/2015;10:56:00
+Lima;Asics;MB1878;Masculino;36;Negro;Pantalon;99;17/07/2015;11:07:00
+Lima;Nike;Free 5.0;Masculino;44;Multicolor;Zapatillas;239;17/07/2015;11:10:00
+Lima;Nike;Pro Fierce;Femenino;75F;Azul;Sujetadores;149;17/07/2015;11:10:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;11:19:00
+Lima;Asics;WB1820;Femenino;38;Negro;Pantalon;89;17/07/2015;11:20:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;17/07/2015;11:24:00
+Lima;Nike;Pro Fierce;Femenino;65E;Multicolor;Sujetadores;149;17/07/2015;11:30:00
+Lima;Asics;Nimbus 17;Masculino;42;Gris;Zapatillas;128;17/07/2015;11:45:00
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;17/07/2015;11:48:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Ropa interior;20;17/07/2015;11:56:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;24.99;17/07/2015;12:04:00
+Lima;Asics;WB1820;Femenino;45;Multicolor;Pantalon;89;17/07/2015;12:06:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;17/07/2015;12:31:00
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;17/07/2015;12:34:00
+Lima;Nike;Air Zoom;Masculino;38;Rosado;Zapatillas;220;17/07/2015;12:39:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;17/07/2015;12:40:00
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;17/07/2015;12:42:00
+Lima;Nike;Pro Hero;Femenino;80A;Negro;Sujetadores;99;17/07/2015;12:50:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;17/07/2015;13:12:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Ropa interior;20;17/07/2015;13:15:00
+Lima;Asics;WB1820;Femenino;42;Negro;Pantalon;89;17/07/2015;13:18:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Azul;Ropa interior;24.99;17/07/2015;13:23:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;17/07/2015;13:49:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Azul;Ropa interior;12.99;17/07/2015;13:52:00
+Lima;Nike;Free 5.0;Femenino;43;Negro;Zapatillas;239;17/07/2015;14:02:00
+Lima;Asics;MB1878;Masculino;39;Negro;Pantalon;99;17/07/2015;14:02:00
+Lima;Nike;Pro Hero;Femenino;90D;Azul;Sujetadores;99;17/07/2015;14:06:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Azul;Ropa interior;21;17/07/2015;14:14:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;14:32:00
+Lima;Nike;Pro Classic;Femenino;75F;Azul;Sujetadores;100;17/07/2015;14:33:00
+Lima;Asics;WB1820;Femenino;37;Verde;Pantalon;89;17/07/2015;14:55:00
+Lima;Asics;WB2585;Femenino;41;Negro;Pantalon;99;17/07/2015;14:56:00
+Lima;Asics;WB1820;Femenino;43;Gris;Pantalon;89;17/07/2015;15:03:00
+Lima;Nike;Free 5.0;Femenino;45;Rosado;Zapatillas;239;17/07/2015;15:13:00
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Ropa interior;19;17/07/2015;15:16:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;17/07/2015;15:36:00
+Lima;Nike;Air Zoom;Masculino;45;Amarillo;Zapatillas;220;17/07/2015;15:39:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Ropa interior;20;17/07/2015;15:54:00
+Lima;Asics;WB1820;Femenino;39;Azul;Pantalon;89;17/07/2015;15:58:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;12.99;17/07/2015;16:05:00
+Lima;Asics;Cummulus 17;Masculino;38;Gris;Zapatillas;159;17/07/2015;16:12:00
+Lima;Nike;Air Zoom;Femenino;43;Amarillo;Zapatillas;230;17/07/2015;16:12:00
+Lima;Asics;Cummulus 17;Masculino;41;Negro;Zapatillas;159;17/07/2015;16:20:00
+Lima;Asics;WB1820;Femenino;37;Verde;Pantalon;89;17/07/2015;16:36:00
+Lima;Nike;Pro Fierce;Femenino;85C;Amarillo;Sujetadores;149;17/07/2015;16:39:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;17/07/2015;16:43:00
+Lima;Asics;WB1820;Femenino;46;Verde;Pantalon;89;17/07/2015;16:43:00
+Lima;Asics;WB1820;Femenino;44;Gris;Pantalon;89;17/07/2015;16:52:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Ropa interior;21;17/07/2015;16:57:00
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Negro;Ropa interior;20;17/07/2015;16:57:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Ropa interior;20;17/07/2015;16:59:00
+Lima;Nike;Free 5.0;Femenino;43;Multicolor;Zapatillas;239;17/07/2015;16:59:00
+Lima;Asics;MB1878;Masculino;46;Negro;Pantalon;99;17/07/2015;08:58:00
+Lima;Asics;WB1820;Femenino;39;Azul;Pantalon;89;17/07/2015;09:08:00
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;17/07/2015;09:54:00
+Lima;Nike;Pro Fierce;Femenino;70B;Negro;Sujetadores;149;17/07/2015;10:55:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Ropa interior;20;17/07/2015;11:08:00
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Ropa interior;20;17/07/2015;11:51:00
+Lima;Nike;Air Zoom;Masculino;44;Gris;Zapatillas;220;17/07/2015;12:24:00
+Lima;Nike;Pro Fierce;Femenino;65E;Negro;Sujetadores;149;17/07/2015;12:33:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;17/07/2015;12:37:00
+Lima;Asics;WB1820;Femenino;46;Gris;Pantalon;89;17/07/2015;12:48:00
+Lima;Nike;Pro Fierce;Femenino;75F;Rosado;Sujetadores;149;17/07/2015;13:06:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;14:41:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Ropa interior;21;17/07/2015;14:44:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Ropa interior;21;17/07/2015;15:00:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;17/07/2015;15:01:00
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Ropa interior;20;17/07/2015;15:10:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;17/07/2015;15:34:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Ropa interior;21;17/07/2015;15:51:00
+Lima;Nike;Pro Fierce;Femenino;75A;Multicolor;Sujetadores;149;17/07/2015;18:02:00
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Negro;Ropa interior;20;17/07/2015;18:21:00
+Lima;Asics;Cummulus 17;Femenino;44;Gris;Zapatillas;159;17/07/2015;19:27:00
+Lima;Asics;WB1820;Femenino;39;Amarillo;Pantalon;89;17/07/2015;19:48:00
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Ropa interior;20;17/07/2015;19:52:00
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Verde;Ropa interior;24.99;17/07/2015;20:19:00
+Lima;Nike;Pro Fierce;Femenino;65F;Azul;Sujetadores;149;17/07/2015;21:14:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;17/07/2015;21:30:00
+Lima;Asics;WB1820;Femenino;44;Amarillo;Pantalon;89;17/07/2015;22:00:00
+Lima;Asics;Gel Quantics ;Femenino;41;Verde;Zapatillas;120;17/07/2015;22:20:00
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;17/07/2015;23:13:00
+Lima;Adidas;Rocket Boost;Femenino;41;Azul;Zapatillas;100;17/07/2015;12:36:00
+Lima;Adidas;Rocket Boost;Femenino;36;Gris;Zapatillas;100;17/07/2015;11:30:00
+Lima;Adidas;Rocket Boost;Masculino;43;Negro;Zapatillas;110;17/07/2015;12:24:00
+Lima;Adidas;Rocket Boost;Femenino;46;Gris;Zapatillas;100;17/07/2015;15:32:00
+Lima;Adidas;Rocket Boost;Masculino;44;Negro;Zapatillas;110;17/07/2015;10:21:00
+Lima;Adidas;Boston 5;Femenino;36;Amarillo;Zapatillas;120;17/07/2015;11:35:00
+Lima;Adidas;Boston 5;Masculino;41;Azul;Zapatillas;125;17/07/2015;14:50:00
+Lima;Adidas;Boston 5;Masculino;43;Gris;Zapatillas;125;17/07/2015;17:27:00
+Lima;Adidas;Boston 5;Masculino;39;Rosado;Zapatillas;125;17/07/2015;11:38:00
+Lima;Adidas;Ultra Boost;Masculino;41;Azul;Zapatillas;139;17/07/2015;13:49:00
+Lima;Adidas;Boston 5;Femenino;42;Multicolor;Zapatillas;120;17/07/2015;14:30:00
+Lima;Adidas;Ultra Boost;Masculino;39;Azul;Zapatillas;139;17/07/2015;12:26:00
+Lima;Asics;MB1878;Masculino;44;Negro;Pantalon;99;18/07/2015;07:13:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;18/07/2015;07:13:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Azul;Ropa interior;20;18/07/2015;07:20:00
+Lima;Nike;Pro Fierce;Femenino;75C;Amarillo;Sujetadores;149;18/07/2015;07:53:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Verde;Ropa interior;12.99;18/07/2015;07:56:00
+Lima;Asics;WB2585;Femenino;45;Negro;Pantalon;99;18/07/2015;08:16:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;18/07/2015;08:44:00
+Lima;Asics;MB1878;Masculino;37;Negro;Pantalon;99;18/07/2015;08:49:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Ropa interior;24.99;18/07/2015;08:54:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Azul;Ropa interior;20;18/07/2015;08:55:00
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Ropa interior;20;18/07/2015;09:02:00
+Lima;Nike;Air Zoom;Masculino;39;Azul;Zapatillas;230;18/07/2015;09:30:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;18/07/2015;09:43:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;24.99;18/07/2015;09:44:00
+Lima;Asics;WB1820;Femenino;46;Azul;Pantalon;89;18/07/2015;09:59:00
+Lima;Asics;WB1820;Femenino;44;Negro;Pantalon;89;18/07/2015;11:28:00
+Lima;Asics;WB1820;Femenino;38;Gris;Pantalon;89;18/07/2015;11:48:00
+Lima;Asics;WB1820;Femenino;38;Rosado;Pantalon;89;18/07/2015;11:49:00
+Lima;Asics;WB2585;Femenino;44;Negro;Pantalon;99;18/07/2015;12:04:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;24.99;18/07/2015;12:10:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Ropa interior;21;18/07/2015;12:12:00
+Lima;Nike;Air Zoom;Masculino;40;Amarillo;Zapatillas;230;18/07/2015;12:34:00
+Lima;Asics;MB1878;Masculino;36;Negro;Pantalon;99;18/07/2015;13:07:00
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Ropa interior;12.99;18/07/2015;13:14:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;18/07/2015;13:17:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;18/07/2015;13:53:00
+Lima;Asics;WB2585;Femenino;43;Negro;Pantalon;99;18/07/2015;14:09:00
+Lima;Nike;Pro Hero;Femenino;65A;Multicolor;Sujetadores;99;18/07/2015;14:49:00
+Lima;Adidas;Rocket Boost;Masculino;37;Amarillo;Zapatillas;100;18/07/2015;14:52:00
+Lima;Asics;WB1820;Femenino;38;Azul;Pantalon;89;18/07/2015;14:52:00
+Lima;Asics;WB1820;Femenino;43;Negro;Pantalon;89;18/07/2015;15:15:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;18/07/2015;15:23:00
+Lima;Asics;Nimbus 17;Masculino;39;Amarillo;Zapatillas;128;18/07/2015;16:43:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;18/07/2015;18:24:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Ropa interior;20;18/07/2015;19:10:00
+Lima;Asics;WB2585;Femenino;39;Negro;Pantalon;99;18/07/2015;19:17:00
+Lima;Asics;WB1820;Femenino;40;Amarillo;Pantalon;89;18/07/2015;19:35:00
+Lima;Asics;WB1820;Femenino;46;Verde;Pantalon;89;18/07/2015;20:16:00
+Lima;Nike;Air Zoom;Masculino;42;Rosado;Zapatillas;230;18/07/2015;21:01:00
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Ropa interior;20;18/07/2015;21:10:00
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Verde;Ropa interior;20;18/07/2015;21:34:00
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;12.99;18/07/2015;21:56:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;18/07/2015;22:06:00
+Lima;Asics;WB1820;Femenino;41;Azul;Pantalon;89;18/07/2015;22:17:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;18/07/2015;22:32:00
+Lima;Asics;Cummulus 17;Masculino;46;Amarillo;Zapatillas;159;18/07/2015;22:33:00
+Lima;Nike;Pro Hero;Femenino;75C;Azul;Sujetadores;99;18/07/2015;22:37:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Ropa interior;20;18/07/2015;23:13:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;18/07/2015;23:44:00
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Ropa interior;20;18/07/2015;09:32:00
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Verde;Ropa interior;20;18/07/2015;09:36:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Ropa interior;20;18/07/2015;09:54:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;24.99;18/07/2015;10:03:00
+Lima;Asics;MB1878;Masculino;38;Negro;Pantalon;99;18/07/2015;10:05:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Ropa interior;21;18/07/2015;10:07:00
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pantalon;89;18/07/2015;10:12:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;12.99;18/07/2015;10:12:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Ropa interior;20;18/07/2015;10:23:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Ropa interior;24.99;18/07/2015;10:26:00
+Lima;Nike;Pro Indy;Femenino;65C;Gris;Sujetadores;123;18/07/2015;10:31:00
+Lima;Nike;Air Zoom;Masculino;44;Multicolor;Zapatillas;220;18/07/2015;10:41:00
+Lima;Nike;Free 5.0;Masculino;36;Multicolor;Zapatillas;239;18/07/2015;10:48:00
+Lima;Asics;WB1820;Femenino;43;Verde;Pantalon;89;18/07/2015;10:48:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;18/07/2015;11:01:00
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Ropa interior;20;18/07/2015;11:01:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;24.99;18/07/2015;11:09:00
+Lima;Nike;Free 5.0;Femenino;42;Azul;Zapatillas;239;18/07/2015;11:17:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;18/07/2015;12:24:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;18/07/2015;12:31:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;12.99;18/07/2015;13:43:00
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Ropa interior;19;18/07/2015;13:46:00
+Lima;Asics;WB1820;Femenino;37;Gris;Pantalon;89;18/07/2015;13:49:00
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pantalon;89;18/07/2015;14:04:00
+Lima;Asics;WB2585;Femenino;45;Negro;Pantalon;99;18/07/2015;14:06:00
+Lima;Asics;WB1820;Femenino;41;Amarillo;Pantalon;89;18/07/2015;14:10:00
+Lima;Asics;Nimbus 17;Masculino;39;Multicolor;Zapatillas;128;18/07/2015;14:10:00
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pantalon;89;18/07/2015;14:17:00
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;24.99;18/07/2015;14:32:00
+Lima;Asics;WB1820;Femenino;37;Azul;Pantalon;89;18/07/2015;14:45:00
+Lima;Asics;Cummulus 17;Masculino;40;Azul;Zapatillas;159;18/07/2015;15:00:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Negro;Ropa interior;24.99;18/07/2015;15:09:00
+Lima;Asics;Cummulus 17;Masculino;44;Rosado;Zapatillas;159;18/07/2015;15:22:00
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Ropa interior;12.99;18/07/2015;15:24:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;18/07/2015;15:44:00
+Lima;Asics;MB1878;Masculino;42;Negro;Pantalon;99;18/07/2015;15:49:00
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;24.99;18/07/2015;16:52:00
+Lima;Asics;WB1820;Femenino;38;Rosado;Pantalon;89;18/07/2015;16:52:00
+Lima;Asics;MB1878;Masculino;44;Negro;Pantalon;99;18/07/2015;17:10:00
+Lima;Adidas;Boston 5;Masculino;44;Rosado;Zapatillas;125;18/07/2015;14:09:00
+Lima;Adidas;Ultra Boost;Masculino;38;Multicolor;Zapatillas;139;18/07/2015;10:18:00
+Lima;Adidas;Rocket Boost;Masculino;44;Negro;Zapatillas;110;18/07/2015;16:31:00
+Lima;Adidas;Rocket Boost;Masculino;36;Azul;Zapatillas;110;18/07/2015;17:01:00
+Lima;Adidas;Rocket Boost;Masculino;40;Amarillo;Zapatillas;110;18/07/2015;13:13:00
+Lima;Adidas;Boston 5;Femenino;40;Azul;Zapatillas;120;18/07/2015;13:31:00
+Lima;Adidas;Boston 5;Femenino;40;Multicolor;Zapatillas;120;18/07/2015;16:56:00
+Lima;Adidas;Boston 5;Masculino;37;Gris;Zapatillas;125;18/07/2015;17:24:00
+Lima;Adidas;Rocket Boost;Masculino;41;Azul;Zapatillas;110;18/07/2015;15:54:00
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pantalon;89;19/07/2015;08:05:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Ropa interior;20;19/07/2015;08:25:00
+Lima;Asics;WB1820;Femenino;38;Multicolor;Pantalon;89;19/07/2015;08:35:00
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Negro;Ropa interior;19;19/07/2015;09:11:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;19/07/2015;09:17:00
+Lima;Asics;WB2585;Femenino;43;Negro;Pantalon;99;19/07/2015;10:24:00
+Lima;Asics;WB1820;Femenino;40;Gris;Pantalon;89;19/07/2015;11:39:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;19/07/2015;12:34:00
+Lima;Asics;WB1820;Femenino;40;Gris;Pantalon;89;19/07/2015;12:40:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;24.99;19/07/2015;13:04:00
+Lima;Nike;Pro Fierce;Femenino;80E;Multicolor;Sujetadores;149;19/07/2015;13:50:00
+Lima;Nike;Pro Fierce;Femenino;80C;Multicolor;Sujetadores;149;19/07/2015;14:25:00
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Ropa interior;20;19/07/2015;14:52:00
+Lima;Asics;WB1820;Femenino;46;Negro;Pantalon;89;19/07/2015;14:52:00
+Lima;Asics;MB1878;Masculino;43;Negro;Pantalon;99;19/07/2015;15:21:00
+Lima;Asics;MB1878;Masculino;41;Negro;Pantalon;99;19/07/2015;15:27:00
+Lima;Asics;WB1820;Femenino;45;Verde;Pantalon;89;19/07/2015;16:40:00
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Azul;Ropa interior;20;19/07/2015;17:08:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;24.99;19/07/2015;17:09:00
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Ropa interior;21;19/07/2015;17:11:00
+Lima;Asics;WB1820;Femenino;39;Rosado;Pantalon;89;19/07/2015;17:19:00
+Lima;Asics;MB1878;Masculino;44;Negro;Pantalon;99;19/07/2015;19:30:00
+Lima;Asics;WB1820;Femenino;41;Verde;Pantalon;89;19/07/2015;19:49:00
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Verde;Ropa interior;19;19/07/2015;20:02:00
+Lima;Asics;WB1820;Femenino;45;Negro;Pantalon;89;19/07/2015;20:31:00
+Lima;Asics;WB1820;Femenino;44;Azul;Pantalon;89;19/07/2015;20:57:00
+Lima;Asics;Cummulus 17;Masculino;44;Negro;Zapatillas;159;19/07/2015;21:54:00
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Ropa interior;12.99;19/07/2015;21:54:00
+Lima;Asics;WB2585;Femenino;44;Negro;Pantalon;99;19/07/2015;22:16:00
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Negro;Ropa interior;24.99;19/07/2015;22:29:00
+Lima;Asics;WB1820;Femenino;45;Gris;Pantalon;89;19/07/2015;23:34:00
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Ropa interior;20;19/07/2015;23:42:00
+Lima;Asics;WB1820;Femenino;45;Negro;Pantalon;89;19/07/2015;23:45:00
+Lima;Nike;Pro Classic;Femenino;90F;Amarillo;Sujetadores;100;19/07/2015;23:54:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Ropa interior;12.99;19/07/2015;09:57:00
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Verde;Ropa interior;12.99;19/07/2015;10:00:00
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Ropa interior;24.99;19/07/2015;10:02:00
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Ropa interior;24.99;19/07/2015;10:28:00
+Provincias;Asics;WB1820;Femenino;37;Azul;Pantalon;89;19/07/2015;11:09:00
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;19/07/2015;11:17:00
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;19/07/2015;11:24:00
+Provincias;Asics;WB1820;Femenino;41;Gris;Pantalon;89;19/07/2015;12:01:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;19/07/2015;13:13:00
+Provincias;Asics;MB1878;Masculino;46;Negro;Pantalon;99;19/07/2015;13:25:00
+Provincias;Asics;MB1878;Masculino;40;Negro;Pantalon;99;19/07/2015;13:39:00
+Provincias;Asics;MB1878;Masculino;45;Negro;Pantalon;99;19/07/2015;13:41:00
+Provincias;Asics;WB1820;Femenino;46;Azul;Pantalon;89;19/07/2015;13:52:00
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Ropa interior;19;19/07/2015;13:56:00
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Azul;Ropa interior;19;19/07/2015;13:56:00
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;24.99;19/07/2015;14:20:00
+Provincias;Asics;WB1820;Femenino;40;Multicolor;Pantalon;89;19/07/2015;14:30:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Ropa interior;12.99;19/07/2015;14:48:00
+Provincias;Asics;WB1820;Femenino;43;Gris;Pantalon;89;19/07/2015;15:01:00
+Provincias;Asics;MB1878;Masculino;43;Negro;Pantalon;99;19/07/2015;15:03:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;19/07/2015;15:49:00
+Provincias;Asics;Cummulus 17;Masculino;43;Verde;Zapatillas;159;19/07/2015;16:16:00
+Provincias;Asics;WB1820;Femenino;39;Verde;Pantalon;89;19/07/2015;16:39:00
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;19/07/2015;17:12:00
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;19/07/2015;17:22:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;19/07/2015;17:30:00
+Provincias;Adidas;Boston 5;Masculino;44;Rosado;Zapatillas;125;19/07/2015;12:09:00
+Provincias;Adidas;Boston 5;Masculino;36;Negro;Zapatillas;125;19/07/2015;14:35:00
+Provincias;Adidas;Boston 5;Femenino;41;Multicolor;Zapatillas;120;19/07/2015;11:40:00
+Provincias;Nike;Hyper Elite Crew;Usinex;36-38;Verde;Ropa interior;20;20/07/2015;07:46:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;20/07/2015;07:55:00
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Ropa interior;19;20/07/2015;08:34:00
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;24.99;20/07/2015;08:49:00
+Provincias;Nike;Pro Hero;Femenino;75C;Rosado;Sujetadores;99;20/07/2015;09:18:00
+Provincias;Asics;WB1820;Femenino;45;Gris;Pantalon;89;20/07/2015;09:33:00
+Provincias;Asics;MB1878;Masculino;39;Negro;Pantalon;99;20/07/2015;10:23:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Azul;Ropa interior;21;20/07/2015;11:15:00
+Provincias;Asics;WB1820;Femenino;46;Multicolor;Pantalon;89;20/07/2015;11:36:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;20/07/2015;11:41:00
+Provincias;Asics;WB1820;Femenino;42;Amarillo;Pantalon;89;20/07/2015;11:47:00
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Azul;Ropa interior;19;20/07/2015;13:17:00
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;20/07/2015;13:30:00
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;20/07/2015;14:03:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Ropa interior;21;20/07/2015;14:22:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Ropa interior;12.99;20/07/2015;14:25:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;20/07/2015;15:11:00
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Ropa interior;19;20/07/2015;16:22:00
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Ropa interior;24.99;20/07/2015;16:35:00
+Provincias;Asics;WB1820;Femenino;42;Gris;Pantalon;89;20/07/2015;16:45:00
+Provincias;Asics;Cummulus 17;Masculino;37;Negro;Zapatillas;159;20/07/2015;16:46:00
+Provincias;Asics;Nimbus 17;Masculino;44;Azul;Zapatillas;128;20/07/2015;16:50:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Ropa interior;12.99;20/07/2015;17:15:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;20/07/2015;17:31:00
+Provincias;Asics;Quick Light Cushion;Usinex;44-46;Azul;Ropa interior;19;20/07/2015;17:51:00
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Verde;Ropa interior;19;20/07/2015;18:33:00
+Provincias;Asics;WB1820;Femenino;45;Multicolor;Pantalon;89;20/07/2015;19:29:00
+Provincias;Asics;WB1820;Femenino;40;Amarillo;Pantalon;89;20/07/2015;19:50:00
+Provincias;Asics;WB1820;Femenino;44;Negro;Pantalon;89;20/07/2015;19:52:00
+Provincias;Asics;MB1878;Masculino;44;Negro;Pantalon;99;20/07/2015;20:15:00
+Provincias;Nike;Pro Hero;Femenino;80F;Multicolor;Sujetadores;99;20/07/2015;20:48:00
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;24.99;20/07/2015;22:30:00
+Provincias;Asics;MB1878;Masculino;45;Negro;Pantalon;99;20/07/2015;22:59:00
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;24.99;20/07/2015;10:00:00
+Provincias;Asics;MB1878;Masculino;37;Negro;Pantalon;99;20/07/2015;10:12:00
+Provincias;Asics;WB1820;Femenino;40;Amarillo;Pantalon;89;20/07/2015;10:18:00
+Provincias;Asics;Cummulus 17;Masculino;45;Verde;Zapatillas;159;20/07/2015;10:54:00
+Provincias;Asics;MB1878;Masculino;44;Negro;Pantalon;99;20/07/2015;11:37:00
+Provincias;Asics;WB1820;Femenino;41;Negro;Pantalon;89;20/07/2015;11:56:00
+Provincias;Asics;WB1820;Femenino;39;Rosado;Pantalon;89;20/07/2015;12:27:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Ropa interior;12.99;20/07/2015;12:39:00
+Provincias;Asics;MB1878;Masculino;40;Negro;Pantalon;99;20/07/2015;13:10:00
+Provincias;Asics;WB1820;Femenino;41;Verde;Pantalon;89;20/07/2015;14:12:00
+Provincias;Asics;Cummulus 17;Masculino;36;Rosado;Zapatillas;159;20/07/2015;14:24:00
+Provincias;Asics;MB1878;Masculino;39;Negro;Pantalon;99;20/07/2015;14:30:00
+Provincias;Asics;WB1820;Femenino;42;Rosado;Pantalon;89;20/07/2015;14:46:00
+Provincias;Asics;WB2585;Femenino;45;Negro;Pantalon;99;20/07/2015;14:58:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;20/07/2015;15:01:00
+Provincias;Asics;WB1820;Femenino;43;Negro;Pantalon;89;20/07/2015;15:08:00
+Provincias;Asics;WB1820;Femenino;38;Amarillo;Pantalon;89;20/07/2015;15:22:00
+Provincias;Asics;WB1820;Femenino;39;Multicolor;Pantalon;89;20/07/2015;15:26:00
+Provincias;Asics;MB1878;Masculino;40;Negro;Pantalon;99;20/07/2015;15:27:00
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Negro;Ropa interior;24.99;20/07/2015;15:39:00
+Provincias;Asics;WB1820;Femenino;37;Verde;Pantalon;89;20/07/2015;15:54:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Ropa interior;12.99;20/07/2015;15:57:00
+Provincias;Asics;WB1820;Femenino;46;Multicolor;Pantalon;89;20/07/2015;16:07:00
+Provincias;Asics;WB2585;Femenino;46;Negro;Pantalon;99;20/07/2015;16:31:00
+Provincias;Asics;WB1820;Femenino;41;Verde;Pantalon;89;20/07/2015;16:41:00
+Provincias;Asics;WB1820;Femenino;45;Gris;Pantalon;89;20/07/2015;17:37:00
+Provincias;Adidas;Rocket Boost;Masculino;44;Negro;Zapatillas;110;20/07/2015;12:58:00
+Provincias;Adidas;Boston 5;Masculino;44;Negro;Zapatillas;125;20/07/2015;17:25:00
+Provincias;Adidas;Rocket Boost;Masculino;46;Amarillo;Zapatillas;110;20/07/2015;17:19:00
+Provincias;Asics;MB1878;Masculino;39;Negro;Pantalon;99;21/07/2015;07:19:00
+Provincias;Asics;Nimbus 17;Masculino;39;Azul;Zapatillas;128;21/07/2015;07:35:00
+Provincias;Asics;MB1878;Masculino;46;Negro;Pantalon;99;21/07/2015;07:45:00
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Ropa interior;19;21/07/2015;07:46:00
+Provincias;Nike;Pro Fierce;Femenino;70B;Negro;Sujetadores;149;21/07/2015;08:03:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Ropa interior;20;21/07/2015;08:16:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Ropa interior;21;21/07/2015;09:31:00
+Provincias;Asics;WB1820;Femenino;38;Azul;Pantalon;89;21/07/2015;09:41:00
+Provincias;Asics;MB1878;Masculino;46;Negro;Pantalon;99;21/07/2015;09:50:00
+Provincias;Nike;Pro Hero;Femenino;80B;Verde;Sujetadores;99;21/07/2015;10:30:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Ropa interior;21;21/07/2015;10:39:00
+Provincias;Asics;MB1878;Masculino;38;Negro;Pantalon;99;21/07/2015;10:53:00
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Azul;Ropa interior;24.99;21/07/2015;11:11:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Ropa interior;20;21/07/2015;11:35:00
+Provincias;Asics;WB2585;Femenino;39;Negro;Pantalon;99;21/07/2015;12:30:00
+Provincias;Nike;Pro Hero;Femenino;75A;Multicolor;Sujetadores;99;21/07/2015;12:41:00
+Provincias;Asics;WB1820;Femenino;40;Rosado;Pantalon;89;21/07/2015;13:13:00
+Provincias;Nike;Pro Classic;Femenino;75B;Azul;Sujetadores;100;21/07/2015;13:13:00
+Provincias;Asics;WB1820;Femenino;38;Gris;Pantalon;89;21/07/2015;13:23:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Ropa interior;20;21/07/2015;14:32:00
+Provincias;Asics;WB1820;Femenino;36;Multicolor;Pantalon;89;21/07/2015;15:20:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Ropa interior;12.99;21/07/2015;16:04:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;21/07/2015;17:49:00
+Provincias;Asics;MB1878;Masculino;44;Negro;Pantalon;99;21/07/2015;17:51:00
+Provincias;Nike;Pro Fierce;Femenino;85A;Amarillo;Sujetadores;149;21/07/2015;18:47:00
+Provincias;Asics;WB1820;Femenino;45;Azul;Pantalon;89;21/07/2015;18:54:00
+Provincias;Nike;Pro Fierce;Femenino;75D;Verde;Sujetadores;149;21/07/2015;19:29:00
+Provincias;Asics;WB1820;Femenino;44;Amarillo;Pantalon;89;21/07/2015;19:32:00
+Provincias;Asics;WB1820;Femenino;39;Negro;Pantalon;89;21/07/2015;19:33:00
+Provincias;Nike;Pro Fierce;Femenino;85D;Amarillo;Sujetadores;149;21/07/2015;19:43:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;21/07/2015;20:31:00
+Provincias;Asics;MB1878;Masculino;40;Negro;Pantalon;99;21/07/2015;20:49:00
+Provincias;Nike;Pro Fierce;Femenino;70E;Amarillo;Sujetadores;149;21/07/2015;20:58:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Ropa interior;21;21/07/2015;21:10:00
+Provincias;Asics;WB1820;Femenino;36;Azul;Pantalon;89;21/07/2015;21:30:00
+Provincias;Asics;WB1820;Femenino;41;Gris;Pantalon;89;21/07/2015;21:54:00
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Azul;Ropa interior;24.99;21/07/2015;21:57:00
+Provincias;Asics;WB1820;Femenino;37;Rosado;Pantalon;89;21/07/2015;22:14:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Ropa interior;21;21/07/2015;23:18:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Ropa interior;12.99;21/07/2015;23:21:00
+Provincias;Asics;MB1878;Masculino;39;Negro;Pantalon;99;21/07/2015;09:37:00
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Ropa interior;19;21/07/2015;09:42:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;21/07/2015;09:50:00
+Provincias;Asics;WB2585;Femenino;36;Negro;Pantalon;99;21/07/2015;10:05:00
+Provincias;Asics;Nimbus 17;Masculino;38;Azul;Zapatillas;128;21/07/2015;10:30:00
+Provincias;Asics;WB1820;Femenino;46;Verde;Pantalon;89;21/07/2015;10:36:00
+Provincias;Asics;WB1820;Femenino;43;Negro;Pantalon;89;21/07/2015;10:49:00
+Provincias;Asics;WB1820;Femenino;36;Multicolor;Pantalon;89;21/07/2015;10:49:00
+Provincias;Asics;WB1820;Femenino;42;Multicolor;Pantalon;89;21/07/2015;11:02:00
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Ropa interior;19;21/07/2015;11:04:00
+Provincias;Asics;MB1878;Masculino;38;Negro;Pantalon;99;21/07/2015;11:04:00
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pantalon;89;21/07/2015;11:14:00
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Negro;Ropa interior;24.99;21/07/2015;11:24:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;21/07/2015;11:25:00
+Provincias;Asics;WB1820;Femenino;36;Negro;Pantalon;89;21/07/2015;11:38:00
+Provincias;Asics;MB1878;Masculino;46;Negro;Pantalon;99;21/07/2015;11:42:00
+Provincias;Asics;Nimbus 17;Masculino;43;Multicolor;Zapatillas;128;21/07/2015;11:46:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;21/07/2015;11:53:00
+Provincias;Asics;WB1820;Femenino;44;Amarillo;Pantalon;89;21/07/2015;12:24:00
+Provincias;Asics;Cummulus 17;Masculino;42;Gris;Zapatillas;159;21/07/2015;12:55:00
+Provincias;Asics;WB2585;Femenino;36;Negro;Pantalon;99;21/07/2015;13:13:00
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Negro;Ropa interior;19;21/07/2015;13:21:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;21/07/2015;13:28:00
+Provincias;Asics;WB1820;Femenino;41;Amarillo;Pantalon;89;21/07/2015;13:34:00
+Provincias;Asics;MB1878;Masculino;38;Negro;Pantalon;99;21/07/2015;14:01:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;21/07/2015;14:10:00
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Negro;Ropa interior;19;21/07/2015;14:25:00
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Ropa interior;19;21/07/2015;14:30:00
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Ropa interior;24.99;21/07/2015;14:56:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Ropa interior;12.99;21/07/2015;14:56:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Verde;Ropa interior;12.99;21/07/2015;14:56:00
+Provincias;Asics;WB1820;Femenino;37;Multicolor;Pantalon;89;21/07/2015;15:06:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;12.99;21/07/2015;15:32:00
+Provincias;Asics;WB1820;Femenino;45;Azul;Pantalon;89;21/07/2015;15:55:00
+Provincias;Asics;WB2585;Femenino;43;Negro;Pantalon;99;21/07/2015;16:31:00
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Ropa interior;19;21/07/2015;16:43:00
+Provincias;Asics;WB1820;Femenino;42;Multicolor;Pantalon;89;21/07/2015;16:52:00
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pantalon;89;21/07/2015;17:14:00
+Provincias;Asics;WB1820;Femenino;36;Negro;Pantalon;89;21/07/2015;17:28:00
+Provincias;Asics;WB1820;Femenino;37;Amarillo;Pantalon;89;21/07/2015;17:35:00
+Provincias;Adidas;Ultra Boost;Masculino;41;Azul;Zapatillas;139;21/07/2015;10:46:00
+Provincias;Adidas;Boston 5;Femenino;41;Verde;Zapatillas;120;21/07/2015;11:19:00
+Provincias;Adidas;Rocket Boost;Femenino;39;Verde;Zapatillas;100;21/07/2015;16:07:00
+Provincias;Adidas;Rocket Boost;Masculino;43;Amarillo;Zapatillas;110;21/07/2015;09:40:00
+Provincias;Asics;WB1820;Femenino;36;Rosado;Pantalon;89;22/07/2015;07:49:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Ropa interior;21;22/07/2015;08:36:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;22/07/2015;08:38:00
+Provincias;Asics;MB1878;Masculino;44;Negro;Pantalon;99;22/07/2015;08:45:00
+Provincias;Asics;WB1820;Femenino;45;Azul;Pantalon;89;22/07/2015;10:33:00
+Provincias;Asics;WB1820;Femenino;42;Rosado;Pantalon;89;22/07/2015;11:44:00
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Ropa interior;24.99;22/07/2015;11:54:00
+Provincias;Asics;WB1820;Femenino;46;Gris;Pantalon;89;22/07/2015;11:58:00
+Provincias;Asics;MB1878;Masculino;36;Negro;Pantalon;99;22/07/2015;12:01:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Ropa interior;20;22/07/2015;12:02:00
+Provincias;Nike;Hyper Elite Crew;Usinex;40-42;Verde;Ropa interior;20;22/07/2015;12:57:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Ropa interior;21;22/07/2015;13:22:00
+Provincias;Asics;WB1820;Femenino;43;Negro;Pantalon;89;22/07/2015;13:32:00
+Provincias;Nike;Pro Fierce;Femenino;85A;Multicolor;Sujetadores;149;22/07/2015;14:21:00
+Provincias;Asics;WB1820;Femenino;43;Gris;Pantalon;89;22/07/2015;14:28:00
+Provincias;Asics;MB1878;Masculino;41;Negro;Pantalon;99;22/07/2015;14:41:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Ropa interior;12.99;22/07/2015;15:24:00
+Provincias;Nike;Pro Classic;Femenino;75E;Gris;Sujetadores;100;22/07/2015;16:40:00
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Ropa interior;12.99;22/07/2015;16:52:00
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Ropa interior;24.99;22/07/2015;16:58:00
+Provincias;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Ropa interior;20;22/07/2015;17:41:00
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Verde;Ropa interior;24.99;22/07/2015;17:49:00
+Provincias;Asics;WB1820;Femenino;43;Gris;Pantalon;89;22/07/2015;19:04:00
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Ropa interior;24.99;22/07/2015;19:35:00
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Ropa interior;19;22/07/2015;19:46:00
+Provincias;Nike;Pro Hero;Femenino;70E;Negro;Sujetadores;99;22/07/2015;20:41:00
+Provincias;Asics;Kayano Single Tab;Usinex;42-44;Verde;Ropa interior;24.99;22/07/2015;20:44:00
+Provincias;Asics;WB1820;Femenino;46;Amarillo;Pantalon;89;22/07/2015;21:15:00
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Negro;Ropa interior;24.99;22/07/2015;21:27:00
+Provincias;Asics;WB1820;Femenino;46;Negro;Pantalon;89;22/07/2015;21:37:00
+Provincias;Asics;WB2585;Femenino;45;Negro;Pantalon;99;22/07/2015;21:38:00
+Provincias;Asics;WB1820;Femenino;42;Verde;Pantalon;89;22/07/2015;21:50:00
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Ropa interior;21;22/07/2015;22:22:00
+Provincias;Asics;WB1820;Femenino;37;Amarillo;Pantalon;89;22/07/2015;22:24:00
+Provincias;Asics;WB1820;Femenino;43;Rosado;Pantalon;89;22/07/2015;22:40:00
+Provincias;Asics;WB1820;Femenino;39;Negro;Pantalon;89;22/07/2015;23:00:00
+Provincias;Asics;WB1820;Femenino;43;Rosado;Pantalon;89;22/07/2015;23:06:00
+Provincias;Asics;MB1878;Masculino;45;Negro;Pantalon;99;22/07/2015;10:02:00
+Provincias;Asics;MB1878;Masculino;37;Negro;Pantalon;99;22/07/2015;11:01:00
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Rosado;Ropa interior;24.99;22/07/2015;11:02:00
+Provincias;Asics;WB1820;Femenino;37;Verde;Pantalon;89;22/07/2015;11:07:00
+Provincias;Asics;Cummulus 17;Masculino;42;Rosado;Zapatillas;159;22/07/2015;11:15:00
+Provincias;Asics;MB1878;Masculino;44;Negro;Pantalon;99;22/07/2015;11:19:00
+Provincias;Asics;WB1820;Femenino;36;Verde;Pantalon;89;22/07/2015;11:50:00
+Provincias;Asics;WB1820;Femenino;44;Azul;Pantalon;89;22/07/2015;12:03:00
+Provincias;Asics;MB1878;Masculino;43;Negro;Pantalon;99;22/07/2015;12:08:00
+Provincias;Asics;WB1820;Femenino;36;Negro;Pantalon;89;22/07/2015;12:37:00
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Verde;Ropa interior;19;22/07/2015;12:49:00
+Provincias;Asics;MB1878;Masculino;46;Negro;Pantalon;99;22/07/2015;13:00:00
+Provincias;Asics;MB1878;Masculino;40;Negro;Pantalon;99;22/07/2015;13:03:00
+Provincias;Asics;WB1820;Femenino;43;Azul;Pantalon;89;22/07/2015;13:03:00

@@ -190,3 +190,133 @@
 ##################################################################################################################################################################################################
 
 
+'''
+    Funciones
+        Ejercicio: Operaciones estadísticas
+
+        - Crea una función que calcule el promedio de una lista de números.
+        - Crea otra función que calcule la desviación estándar de una lista de números.
+            Pasos para calcular la desviación estándar
+                Paso 1: calcular la promedio/media.
+                Paso 2: calcular el cuadrado de la distancia al promedio/media para cada dato.
+                Paso 3: sumar los valores que resultaron del paso 2.
+                Paso 4: dividir entre el número de datos. (varianza)
+                Paso 5: sacar la raíz cuadrada. 
+        - Utiliza estas funciones para analizar un conjunto de datos.
+'''
+
+# import math
+
+# # Función para calcular el promedio/media de una lista de números
+# def calcular_promedio(lista):
+#     if not lista:
+#         return 0
+#     return sum(lista) / len(lista)
+
+# # Función para calcular la desviación estándar de una lista de números
+# def calcular_desviacion_estandar(lista):
+#     if len(lista) < 2:
+#         return 0
+
+#     promedio = calcular_promedio(lista)
+#     # suma_cuadrado_diferencia_media = 0
+
+#     # for x in lista:
+#     #     suma_cuadrado_diferencia_media += (x -promedio) ** 2
+#     # else:
+#     #     varianza = suma_cuadrado_diferencia_media / len(lista)
+
+#     varianza = sum((x -promedio) ** 2 for x in lista) / len(lista)
+
+#     desviacion_estandar = math.sqrt(varianza)
+
+#     return desviacion_estandar
+
+
+# # Ejemplo de uso
+# datos = [25, 38, 24, 33, 35, 23, 27, 59, 36, 55]
+# promedio = calcular_promedio(datos)
+# desviacion_estandar = calcular_desviacion_estandar(datos)
+
+
+# print(f'Datos: {datos}')
+# print(f'Promedio: {promedio}')
+# print(f'Desviación estándar: {desviacion_estandar:.2f}')
+
+
+
+'''
+    Manejo de Errores y Excepciones
+        Ejercicio: Total de ventas
+
+        - Crea una función que lea un archivo CSV con datos de ventas, calcule la suma total de ventas y maneje posibles errores de lectura o cálculo.
+
+'''
+
+import csv
+
+# Función para calcular la suma total de ventas desde un archivo CSV
+def calcular_suma_total_ventas(archivo_csv):
+    suma_venta = 0
+    try:
+
+        with open(archivo_csv, 'r') as archivo:
+            lectura = csv.reader(archivo, delimiter=';')
+            cabecera = next(lectura)
+
+            # for line in lectura:
+            #     suma_venta += float(line[7])
+
+            nombre_columna = 'precio de venta'
+            # for line in lectura:
+            #     suma_venta += float(line[cabecera.index(nombre_columna)])
+
+            suma_venta = sum([float(line[cabecera.index(nombre_columna)]) for line in lectura])
+            
+
+    except FileNotFoundError:
+        print(f'Error: El archivo {archivo_csv} no fue encontrado')
+    except ValueError:
+        print('Error: Se encontró un valor no numérico en el archivo')
+    except Exception as error:
+        print(f'Error inesperado: {error}')
+    else:
+        return suma_venta
+    finally:
+        print('Hola soy el Finally')
+
+# Ejemplo de uso
+archivo = 'ventas.csv'
+suma_total = calcular_suma_total_ventas(archivo)
+
+if suma_total:
+    print(f'La suma total de ventas es: {suma_total:.2f}')
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+    Manejo de Archivos
+        Ejercicio: 
+
+        - Crear una función que tome datos de un diccionario y los escriba en un archivo de texto en formato JSON.
+'''
+
+# Función para escribir datos en formato JSON en un archivo
+def escribir_datos_json(datos, archivo_salida):
+    pass
+
+
+
+
+
+
