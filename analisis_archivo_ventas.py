@@ -147,7 +147,7 @@ Explicación del código:
 
     5 - Ejemplo de uso:
 
-        - En el bloque if __name__ == "__main__":, se muestra un ejemplo de cómo utilizar la función analisis_estadistico_ventas con el archivo datos_productos.csv.
+        - En el bloque if __name__ == "__main__":, se muestra un ejemplo de cómo utilizar la función analisis_estadistico_ventas con el archivo ventas.csv.
         - Se imprime cada métrica calculada para cada marca obtenida de resultados.
 
     
