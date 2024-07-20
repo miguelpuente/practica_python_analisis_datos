@@ -89,14 +89,14 @@ def analisis_estadistico_ventas(archivo_csv):
                 'Frecuencia de Ventas': frecuencia_ventas
             }
 
-        return resultados
-
     except FileNotFoundError:
         print(f"Archivo no encontrado: {archivo_csv}")
     except csv.Error as e:
         print(f"Error al procesar el archivo CSV: {e}")
     except Exception as e:
         print(f"Error inesperado: {e}")
+    else:
+        return resultados
 
 # Ejemplo de uso:
 if __name__ == "__main__":
