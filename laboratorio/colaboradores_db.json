@@ -1,0 +1,18 @@
+{
+    "26265265": {
+        "dni": 26265265,
+        "nombre": "Miguel",
+        "apellido": "Esperguin",
+        "edad": 25,
+        "salario": 3500.0,
+        "departamento": "Datos"
+    },
+    "24567543": {
+        "dni": 24567543,
+        "nombre": "Jorge",
+        "apellido": "Lucas",
+        "edad": 25,
+        "salario": 2500.0,
+        "horas_semanales": 45
+    }
+}
