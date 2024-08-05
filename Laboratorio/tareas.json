@@ -1,0 +1,21 @@
+[
+    {
+        "titulo": "Titulo 2",
+        "detalle": "esta es la segunda tarea",
+        "estado": "Pendiente",
+        "fecha_programada": "05/09/2024"
+    },
+    {
+        "titulo": "Titulo 3",
+        "detalle": "esta es la tercer tarea",
+        "estado": "Pendiente",
+        "fecha_inicio": "02/09/2024",
+        "fecha_fin": "07/09/2024",
+        "frecuencia": "diaria"
+    },
+    {
+        "titulo": "Titulo 1",
+        "detalle": "esta es la primer tarea",
+        "estado": "Completa"
+    }
+]
