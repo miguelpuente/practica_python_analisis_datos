@@ -1,0 +1,49 @@
+[
+    {
+        "id": "63a37fb3-cc95-47cb-be83-160af730327c",
+        "titulo": "Pagar AFIP",
+        "detalle": "Monotributo",
+        "estado": "Pendiente",
+        "fecha_programada": "20/08/2024"
+    },
+    {
+        "id": "d6a7e329-6b64-43f3-b193-6b24e14ba466",
+        "titulo": "Compras",
+        "detalle": "Caf\u00e9, mate cocido, azucar, papel higi\u00e9nico",
+        "estado": "Pendiente"
+    },
+    {
+        "id": "f02c9016-3760-40bb-831c-f0a8f07a259e",
+        "titulo": "No olvidar",
+        "detalle": "caminar 5 km por d\u00eda",
+        "estado": "En progreso",
+        "fecha_inicio": "04/08/2024",
+        "fecha_fin": "04/08/2026",
+        "frecuencia": "diaria"
+    },
+    {
+        "id": "a0302aed-837b-45e2-add6-ca1317a1a967",
+        "titulo": "Compras",
+        "detalle": "ibuprofeno, supradyn, champ\u00fa, pasta dental",
+        "estado": "Completa"
+    },
+    {
+        "id": "0cb519a1-d464-4ff8-8b3e-b87452e82734",
+        "titulo": "compras",
+        "detalle": "jab\u00f3n l\u00edquido, desodorante para piso, escoba, pa\u00f1o",
+        "estado": "En progreso"
+    },
+    {
+        "id": "fdeb04a8-9b36-493c-a8b1-ffd3c81f621f",
+        "titulo": "Verificar fecha",
+        "detalle": "probando el formato de las fechas",
+        "estado": "En progreso",
+        "fecha_programada": "05/09/2024"
+    },
+    {
+        "id": "aa51edec-daff-4750-a35d-7e979c073897",
+        "titulo": "Probar validaci\u00f3n ",
+        "detalle": "probar la validaci\u00f3n de t\u00edtulos",
+        "estado": "En progreso"
+    }
+]
